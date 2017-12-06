@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1512407113 source:c:\users\jenni\desktop\year 2\computer programming\lab exercises\13. prime number calculation\13. prime number calculation\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1512407868 source:d:\computer programming\lab exercises\13. prime number calculation\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
